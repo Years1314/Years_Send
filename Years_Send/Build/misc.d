@@ -1,0 +1,15 @@
+.\Build\misc.o: STM32_LIB\LIB\src\misc.c
+.\Build\misc.o: .\STM32_LIB\LIB\inc\misc.h
+.\Build\misc.o: .\STM32_LIB\CMSIS\stm32f10x.h
+.\Build\misc.o: .\STM32_LIB\CMSIS\core_cm3.h
+.\Build\misc.o: E:\software\keil4\ARM\RV31\Inc\stdint.h
+.\Build\misc.o: .\STM32_LIB\CMSIS\system_stm32f10x.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_conf.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_flash.h
+.\Build\misc.o: .\STM32_LIB\CMSIS\stm32f10x.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_gpio.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_rcc.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_spi.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_tim.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\stm32f10x_usart.h
+.\Build\misc.o: .\STM32_LIB\LIB\inc\misc.h

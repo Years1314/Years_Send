@@ -1,0 +1,50 @@
+*** Creating Trace Output File '.\Build\Remote.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\build\main.o"'
+### List of Objects: adding '".\build\years_schedule.o"'
+### List of Objects: adding '".\build\years_led.o"'
+### List of Objects: adding '".\build\board.o"'
+### List of Objects: adding '".\build\stm32f10x_it.o"'
+### List of Objects: adding '".\build\years_spi.o"'
+### List of Objects: adding '".\build\years_nrf24l01.o"'
+### List of Objects: adding '".\build\years_uart.o"'
+### List of Objects: adding '".\build\years_usb_hid.o"'
+### List of Objects: adding '".\build\years_remote.o"'
+### List of Objects: adding '".\build\years_key.o"'
+### List of Objects: adding '".\build\startup_stm32f10x_hd.o"'
+### List of Objects: adding '".\build\system_stm32f10x.o"'
+### List of Objects: adding '".\build\core_cm3.o"'
+### List of Objects: adding '".\build\misc.o"'
+### List of Objects: adding '".\build\stm32f10x_flash.o"'
+### List of Objects: adding '".\build\stm32f10x_gpio.o"'
+### List of Objects: adding '".\build\stm32f10x_rcc.o"'
+### List of Objects: adding '".\build\stm32f10x_spi.o"'
+### List of Objects: adding '".\build\stm32f10x_tim.o"'
+### List of Objects: adding '".\build\stm32f10x_usart.o"'
+### List of Objects: adding '".\build\usb_core.o"'
+### List of Objects: adding '".\build\usb_init.o"'
+### List of Objects: adding '".\build\usb_int.o"'
+### List of Objects: adding '".\build\usb_mem.o"'
+### List of Objects: adding '".\build\usb_regs.o"'
+### List of Objects: adding '".\build\usb_config.o"'
+### List of Objects: adding '".\build\usb_desc.o"'
+### List of Objects: adding '".\build\usb_endp.o"'
+### List of Objects: adding '".\build\usb_istr.o"'
+### List of Objects: adding '".\build\usb_prop.o"'
+### List of Objects: adding '".\build\usb_pwr.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\build\main.o" ".\build\years_schedule.o" ".\build\years_led.o" ".\build\board.o" ".\build\stm32f10x_it.o" ".\build\years_spi.o" ".\build\years_nrf24l01.o" ".\build\years_uart.o" ".\build\years_usb_hid.o" ".\build\years_remote.o" ".\build\years_key.o" ".\build\startup_stm32f10x_hd.o" ".\build\system_stm32f10x.o" ".\build\core_cm3.o" ".\build\misc.o" ".\build\stm32f10x_flash.o" ".\build\stm32f10x_gpio.o" ".\build\stm32f10x_rcc.o" ".\build\stm32f10x_spi.o" ".\build\stm32f10x_tim.o" ".\build\stm32f10x_usart.o" ".\build\usb_core.o" ".\build\usb_init.o" ".\build\usb_int.o" ".\build\usb_mem.o" ".\build\usb_regs.o" ".\build\usb_config.o" ".\build\usb_desc.o" ".\build\usb_endp.o" ".\build\usb_istr.o" ".\build\usb_prop.o" ".\build\usb_pwr.o" --strict --scatter ".\Build\Remote.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Remote.map" -o ".\Build\Remote.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Build\Remote.axf'
+### ADS-LD Command File: '.\Build\Remote.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Build\Remote.lnp', Handle=0x000005D8
+### Writing '.lnp' file
+### ADS-LD Command file '.\Build\Remote.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

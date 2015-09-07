@@ -1,0 +1,4 @@
+--cpu Cortex-M3 ".\build\main.o" ".\build\years_schedule.o" ".\build\years_led.o" ".\build\board.o" ".\build\stm32f10x_it.o" ".\build\years_spi.o" ".\build\years_nrf24l01.o" ".\build\years_uart.o" ".\build\years_usb_hid.o" ".\build\years_remote.o" ".\build\years_key.o" ".\build\startup_stm32f10x_hd.o" ".\build\system_stm32f10x.o" ".\build\core_cm3.o" ".\build\misc.o" ".\build\stm32f10x_flash.o" ".\build\stm32f10x_gpio.o" ".\build\stm32f10x_rcc.o" ".\build\stm32f10x_spi.o" ".\build\stm32f10x_tim.o" ".\build\stm32f10x_usart.o" ".\build\usb_core.o" ".\build\usb_init.o" ".\build\usb_int.o" ".\build\usb_mem.o" ".\build\usb_regs.o" ".\build\usb_config.o" ".\build\usb_desc.o" ".\build\usb_endp.o" ".\build\usb_istr.o" ".\build\usb_prop.o" ".\build\usb_pwr.o" --strict --scatter ".\Build\Remote.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Remote.map" -o ".\Build\Remote.axf"

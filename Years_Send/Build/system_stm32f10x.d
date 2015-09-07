@@ -1,0 +1,14 @@
+.\Build\system_stm32f10x.o: STM32_LIB\CMSIS\system_stm32f10x.c
+.\Build\system_stm32f10x.o: STM32_LIB\CMSIS\stm32f10x.h
+.\Build\system_stm32f10x.o: STM32_LIB\CMSIS\core_cm3.h
+.\Build\system_stm32f10x.o: E:\software\keil4\ARM\RV31\Inc\stdint.h
+.\Build\system_stm32f10x.o: STM32_LIB\CMSIS\system_stm32f10x.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_conf.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_flash.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\CMSIS\stm32f10x.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_gpio.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_rcc.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_spi.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_tim.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\stm32f10x_usart.h
+.\Build\system_stm32f10x.o: .\STM32_LIB\LIB\inc\misc.h
